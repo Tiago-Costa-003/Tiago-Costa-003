@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Tiago-Costa-003/Tiago-Costa-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Bem-vindo(a) ao perfil do Tiago-Costa-003
+<div>
+  <a href="https://github.com/Tiago-Costa-003">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago-Costa-003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Costa-003&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+  
+<div> 
+  
+  ![Snake animation](https://github.com/Tiago-Costa-003/Tiago-Costa-003/blob/output/github-contribution-grid-snake.svg)
+  
+</div>  
